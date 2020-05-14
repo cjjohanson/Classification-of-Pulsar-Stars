@@ -1,4 +1,4 @@
-# Springboard assignments and capstone projects
+# Classification of Pulsar Stars
 
 This repository contains all relevant files for the first capstone project as part of Springboard's Data Science Bootcamp.
 
